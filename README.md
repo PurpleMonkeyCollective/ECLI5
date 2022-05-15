@@ -1,2 +1,3 @@
 # ECLI5
-The ECLI5 VSCode Extension
+
+The ECLI5 VSCode Extension.
